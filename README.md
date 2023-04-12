@@ -1,4 +1,4 @@
-[<img alt="Finance" width="800px" src="https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png" />](https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png)
+[<img alt="Finance" width="500px" src="https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png" />](https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png)
 
 ### Hi there 👋
 
