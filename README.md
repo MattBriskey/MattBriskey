@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbriskey&hide_progress=true&exclude_repo=css_exercises,odin-recipes,git_test,rprojects)](https://github.com/MattBriskey)
+
 <!--
 **MattBriskey/MattBriskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
