@@ -1,6 +1,4 @@
-[<img alt="Finance" width="500px" src="https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png" />](https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png)
-
-### Hi there 👋
+[<img alt="Finance" width="600px" src="https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png" />](https://github.com/MattBriskey/MattBriskey/blob/main/Cover.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbriskey&hide_progress=true&exclude_repo=css_exercises,odin-recipes,git_test,rprojects)](https://github.com/MattBriskey)
 
